@@ -52,7 +52,27 @@ I’m a graduate student at **South Dakota Mines** with a passion for solving re
 
 ---
 
-## 📫 Connect with Me  
+## 📊 GitHub Stats
+![Hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunter174&show_icons=true&theme=radical)
+
+## 🚀 Skills
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/hunter-r-paxton)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Hunter174)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-green?style=flat&logo=google-chrome)](https://github.com/Hunter174)
+
+---
+
+## 📫 Contact  
 - 📧 hunter.paxton@mines.sdsmt.edu  
 - 💼 [LinkedIn](https://linkedin.com/in/hunter-r-paxton)  
 - 🐙 [GitHub](https://github.com/Hunter174)  
