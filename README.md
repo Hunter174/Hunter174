@@ -62,12 +62,6 @@ I’m a graduate student at **South Dakota Mines** with a passion for solving re
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface)
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/hunter-r-paxton)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Hunter174)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects-green?style=flat&logo=google-chrome)](https://github.com/Hunter174)
 
 ---
