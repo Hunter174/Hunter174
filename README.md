@@ -17,7 +17,8 @@ I’m a graduate student at **South Dakota Mines** with a passion for solving re
 ---
 
 ## 📊 GitHub Stats
-![Hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hunter174&show_icons=true&theme=radical&cache_seconds=1800)
+![Hunter's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hunter174&theme=radical)
+
 
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
